@@ -44,7 +44,7 @@ Netflix titles dataset (8,783 records after cleaning): 6,121 Movies and 2,662 TV
 ![Task 6 Dashboard](Task6_Dashboard.png.jpeg)
 
 ### Live Dashboard Video Link
-https://drive.google.com/file/d/1d8w1GPVeHmIWDEhsrKbHMXz6n8qu5Dpr/view?usp=drivesdk
+[Watch Dashboard Video](https://drive.google.com/file/d/1d8w1GPVeHmIWDEhsrKbHMXz6n8qu5Dpr/view?usp=drivesdk)
 
 
 ## How to Use
