@@ -35,13 +35,17 @@ Netflix titles dataset (8,783 records after cleaning): 6,121 Movies and 2,662 TV
 ## Dashboards
 
 ### Task 2: Content Distribution
-![Task 2 Dashboard](Task2_Content_Distribution/Task2_Dashboard.png)
+![Task 2 Dashboard]("C:\Users\sanke\Downloads\Netflix_Excel_Internship\Task2_Dashboard.png.jpeg")
 
 ### Task 4: Release Trend Analysis
-![Task 4 Dashboard](Task4_Release_Trend/Task4_Dashboard.png)
+![Task 4 Dashboard]("C:\Users\sanke\Downloads\Netflix_Excel_Internship\Task4_Dashboard.png.jpeg")
 
 ### Task 6: Executive Dashboard (with slicers)
-![Task 6 Dashboard](Task6_Executive_Dashboard/Task6_Dashboard.png)
+![Task 6 Dashboard]("C:\Users\sanke\Downloads\Netflix_Excel_Internship\Task6_Dashboard.png.jpeg")
+
+### Live Dashboard Video Link
+https://drive.google.com/file/d/1d8w1GPVeHmIWDEhsrKbHMXz6n8qu5Dpr/view?usp=drivesdk
+
 
 ## How to Use
 Open `Netflix_Clean_Main.xlsx`. Each task has its own sheet. In the executive dashboard, use the slicers (type, Year_Added, Rating_Group) to filter all charts at once.
